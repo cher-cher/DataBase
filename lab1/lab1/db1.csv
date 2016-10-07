@@ -1,0 +1,10 @@
+id,file,description,date,author,platform,type,port
+1,platforms/windows/remote/1.c,"Microsoft IIS - WebDAV 'ntdll.dll' Remote Exploit",2003-03-23,kralor,windows,remote,80
+2,platforms/windows/remote/2.c,"Microsoft IIS 5.0 - WebDAV Remote Exploit (PoC)",2003-03-24,RoMaNSoFt,windows,remote,80
+3,platforms/linux/local/3.c,"Linux Kernel 2.2.x / 2.4.x (Redhat) - 'ptrace/kmod' Privilege Escalation",2003-03-30,"Wojciech Purczynski",linux,local,0
+4,platforms/windows/remote/1.c,"Microsoft IIS - WebDAV 'ntdll.dll' Remote Exploit",2003-03-23,kralor,windows,remote,80
+5,platforms/windows/remote/1.c,"Microsoft IIS - WebDAV 'ntdll.dll' Remote Exploit",2003-03-23,kralor,windows,remote,80
+5,platforms/windows/remote/1.c,"Microsoft IIS - WebDAV 'ntdll.dll' Remote Exploit",2003-03-23,kralor,windows,remote,80
+6,platforms/windows/remote/1.c,"Microsoft IIS - WebDAV 'ntdll.dll' Remote Exploit",2003-03-23,kralor,windows,remote,80
+7,platforms/windows/remote/1.c,"Microsoft IIS - WebDAV 'ntdll.dll' Remote Exploit",2003-03-23,kralor,windows,remote,80
+8,platforms/windows/remote/1.c,"Microsoft IIS - WebDAV 'ntdll.dll' Remote Exploit",2003-03-23,kralor,windows,remote,80
